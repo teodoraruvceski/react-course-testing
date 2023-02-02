@@ -5,7 +5,7 @@ function Home(){
             <p>
                 Enter name:
             </p>
-            <input type='text' placeholder="Name..."></input>
+            <input className="input" type='text' placeholder="Name..."></input>
             <button>Send</button>
         </div>
     )
